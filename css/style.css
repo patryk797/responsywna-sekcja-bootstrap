@@ -1,0 +1,21 @@
+.row {
+    font-size: 8em;
+    color: #e38f42;
+}
+
+.head-font {
+    font-size: 0.8em;
+    color: #88888a;
+    text-align: center;
+    margin-top: 100px;
+}
+
+main hr {
+    width: 35%;
+    margin: 0 auto;
+}
+
+.font-describe {
+    color: #6c757c;
+    font-size: 0.25em;
+}
